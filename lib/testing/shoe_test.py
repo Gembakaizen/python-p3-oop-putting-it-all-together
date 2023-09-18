@@ -39,4 +39,8 @@ class TestShoe:
         assert(stan_smith.condition == "New")
         
         
+    
+        
+        
+        
    
